@@ -1,0 +1,15 @@
+{
+  "name": "@intrepion/fcc-start-a-project",
+  "version": "1.0.0",
+  "description": "a bit of words",
+  "repository": "https://github.com/intrepion/freecodecamp-manage-packages-with-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
